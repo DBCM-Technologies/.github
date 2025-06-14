@@ -1,4 +1,4 @@
-![Banner]("https://raw.githubusercontent.com/DBCM-Technologies/logo/refs/heads/main/banner.svg")
+![Banner](https://raw.githubusercontent.com/DBCM-Technologies/logo/refs/heads/main/banner.svg)
 
 An initiative by DBCM Students.
 
