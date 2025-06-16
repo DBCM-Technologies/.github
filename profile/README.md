@@ -2,6 +2,6 @@
 
 An open-source initiative by DBCM Students.
 
-All are welcome to contribute.
+All are welcome to use and contribute.
 
 &copy; 2025
